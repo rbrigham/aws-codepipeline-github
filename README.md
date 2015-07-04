@@ -1,4 +1,4 @@
-aws-codedeploy-github
-=====================
+aws-codepipeline-github
+=======================
 
-Demo repository for CodeDeploy-GitHub integration
+Demo repository for CodePipeline-GitHub integration
